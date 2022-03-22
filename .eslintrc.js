@@ -32,5 +32,6 @@ module.exports = {
     'no-unused-expressions': 0,
     'default-param-last': 0,
     'array-callback-return': 0,
+    'jsx-a11y/label-has-associated-control': 0,
   },
 }
